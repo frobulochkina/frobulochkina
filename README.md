@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Lena</h2>
 
-<img alt="Night Coding" src="./assets/Ao.gif" height="150" align="right"/>
+
 
 <h3>About Me</h3>
 
@@ -19,19 +19,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
-<p>
-<img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKgWu_bvCWvSofUjrU3eVSVwKkHcA3y8EnhsoVU64m4G2bOSeiUoQC5rUwe9H6BRR4CF4&usqp=CAU"/>
-
-<img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyC1vfcnbmjWfrr8qjdJqCZ1_w1i5VxiSygo0UMTWrqDyZ_-3EO2bvjXsrIKSYb50vjvI&usqp=CAU"/>
-
-<img height="55" src="https://img.icons8.com/color/480/c-plus-plus-logo.png"/>
-
-</p>
-
-
-
-
-<h3>Connect with Me</h3>
+<h3>My social media account</h3>
 <p align="center">
 <a href="https://www.instagram.com/accounts/login/?next=/frosya_bulochkina/"><img align="left" src="https://img.shields.io/badge/FrosyaBulochkina-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
