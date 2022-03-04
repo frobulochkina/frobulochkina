@@ -4,10 +4,8 @@
 
 <h3>About Me</h3>
 
-&nbsp;I'm on track for learning more about Java.\
-&nbsp;I am studying Java course - job4j (https://job4j.ru). \
-&nbsp;I'm study at the school of programming School 21 (École 42).\
-&nbsp;You can shoot me an email at konyakova.elena@gmail.com.
+&nbsp;I'm studying at the school of programming School 21 (École 42) and Java course - job4j (https://job4j.ru).\
+&nbsp;You can send me an email at konyakova.elena@gmail.com.
 
 <h3>Tech Stack</h3>
 
