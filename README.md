@@ -18,8 +18,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
-<h3>My social media account</h3>
-<p align="center">
-<a href="https://www.instagram.com/accounts/login/?next=/frosya_bulochkina/"><img align="left" src="https://img.shields.io/badge/FrosyaBulochkina-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
+
 
